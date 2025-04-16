@@ -7,6 +7,8 @@ Use:
     In Notepad++ open Language -> Define your language
     Use Import to add Vlang syntax highlighting to files with .v extension and choose the downloaded file.
 
+Dark theme
 ![Dark theme](img/dark_theme.png)
 
+White theme
 ![White theme](img/white_theme.png)
