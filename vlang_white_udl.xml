@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">as asm assert atomic break byte const continue defer else embed enum false fn for go goto if import in interface is lock matche module none or return rlock select shared sizeof static struct true type typeof union unsafe implements</Keywords>
+            <Keywords name="Keywords1">as asm assert atomic break byte const continue defer else embed enum false fn for go goto if import in interface is lock matche module none or return rlock select shared sizeof static struct true type typeof union unsafe implements chan spawn</Keywords>
             <Keywords name="Keywords2">mut pub</Keywords>
             <Keywords name="Keywords3">bool string i8 i16 int i64 i128 byte u16 u32 u64 u128 rune f32 f64 byteptr voidptr charptr size_t any_int any_float any</Keywords>
             <Keywords name="Keywords4">eprint v_calloc utf8_getchar utf8_char_len error error_with_code exit utf32_to_str_no_malloc panic f32_abs f32_max f32_min memdup tos_clone f64_max malloc tos3 tos2 compare_f32 compare_f64 compare_i64 compare_strings utf32_to_str free tos isnil tos_lit string_from_wide string_from_wide2 ptr_str copy proc_pidpath println cstring_to_vstring vstrlen vcalloc v_realloc print print_backtrace is_atty eprintln</Keywords>
